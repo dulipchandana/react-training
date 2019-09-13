@@ -1,0 +1,9 @@
+//insttall create-react-app
+sudo npm install create-react-app -g
+
+create-react-app {react-app-name}
+
+
+
+ 
+
